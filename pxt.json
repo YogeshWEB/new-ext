@@ -1,0 +1,12 @@
+{
+    "name": "myextension",
+    "version": "0.0.1",
+    "description": "My custom micro:bit extension",
+    "dependencies": {
+      "core": "*"
+    },
+    "files": [
+      "main.ts"
+    ]
+  }
+  
